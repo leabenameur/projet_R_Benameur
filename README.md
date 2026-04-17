@@ -1,3 +1,3 @@
-# projet_R_Benameur
+# ReadMe
 
 Lancez le fichier projet_R_final.R
